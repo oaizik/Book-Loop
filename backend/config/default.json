@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://ohadAizik:ohad1991@bookloop.kq6qx1i.mongodb.net/?retryWrites=true&w=majority",
+    "jwtToken": "mysecrettoken",
+    "maxBooksPerCall": 20,
+    "googleBooksUrl": "https://www.googleapis.com/books/v1/volumes"
+}
